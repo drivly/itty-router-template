@@ -3,9 +3,7 @@ import { withParams, json } from 'https://pkg.do/itty-router-extras'
 
 const router = Router()
 
-router.get('/:resource?/:id?', withParams, ({resource, id}) => json({resource, id}))
-
-router.all('*', req => json({ fun: new URL(req.url).origin + '/fun' }))
+router.get('/:resource?/:id?', withParams, ({url, resource, id}) => json({url, resource, id}))
 
 export default {
   fetch: router.handle
