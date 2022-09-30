@@ -81,9 +81,9 @@ jobs:
 This will requiring adding TXT files to your DNS for verifation, unlike specific non-wildcard domains that can be validated automatically via HTTP.
 
 
-## 🏎 Drivly Open- Accelerating Innovation through Open Source
+## 🏎 [Drivly Open- Accelerating Innovation through Open Source](https://driv.ly)
 
-Our Drivly Open Philosophy has these key principles:
+Our [Drivly Open](https://driv.ly) Philosophy has these key principles:
 
 1. Build in Public, and with the Community
 2. Create Amazing Developer Experiences
