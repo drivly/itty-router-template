@@ -78,6 +78,8 @@ jobs:
 
 ### Coming Soon - Wildcard Custom Domain support for Commit Hash Deploys:
 
+This will requiring adding TXT files to your DNS for verifation, unlike specific non-wildcard domains that can be validated automatically via HTTP.
+
 
 ## Drivly Open- Accelerating Innovation through Open Source
 
