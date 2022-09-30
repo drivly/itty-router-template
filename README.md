@@ -79,3 +79,19 @@ jobs:
 ### Coming Soon - Wildcard Custom Domain support for Commit Hash Deploys:
 
 
+## Drivly Open- Accelerating Innovation through Open Source
+
+Our Drivly Open Philosophy has these key principles:
+
+1. Build in Public, and with the Community
+2. Create Amazing Developer Experiences
+3. Everything Must Have an API
+4. Communicate through APIs not Meetings
+5. APIs Should Do One Thing, and Do It Well
+
+
+##  🚀 We're Hiring!
+
+[Driv.ly](https://driv.ly) is deconstructing the monolithic physical dealership into simple APIs to buy and sell cars online, and we're funded by some of the [biggest names](https://twitter.com/TurnerNovak) in [automotive](https://fontinalis.com/team/#bill-ford) and [finance & insurance](https://www.detroit.vc)
+
+Our entire infrastructure is built with [Cloudflare Workers](https://workers.do), [Durable Objects](https://durable.objects.do), [KV](https://kv.cf), [PubSub](https://pubsub.do), [R2](https://r2.do.cf), [Pages](https://pages.do), etc.  [If you love the Cloudflare Workers ecosystem as much as we do](https://driv.ly/loves/workers), we'd love to have you [join our team](https://careers.do/apply)!
