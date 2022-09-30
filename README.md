@@ -15,3 +15,17 @@ export default {
   fetch: router.handle
 }
 ```
+
+Uses [drivly/deploy-worker](https://github.com/marketplace/actions/deploy-worker) GitHub Action for 5-10 second deployment times:
+
+```yaml
+name: Deploy
+on: push
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    name: Deploy
+    steps:
+      - uses: actions/checkout@v3
+      - uses: drivly/deploy-worker@beta-1
+```
