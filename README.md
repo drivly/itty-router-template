@@ -29,3 +29,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: drivly/deploy-worker@beta-1
 ```
+
+And every commit gets auto-deployed instantly with it's own URL:
+
+<img width="880" alt="Screen Shot 2022-09-30 at 9 54 15 AM" src="https://user-images.githubusercontent.com/4130910/193297600-6aac75df-b9da-41e8-b8b2-c4c85ed63e8e.png">
