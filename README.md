@@ -1,4 +1,4 @@
-# Template Cloudflare Worker using Itty Router with support for HTTP Imports
+# Template Worker using Itty Router with support for HTTP Imports
 
 ```javascript
 import { Router } from 'https://pkg.do/itty-router'
