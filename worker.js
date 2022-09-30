@@ -5,7 +5,7 @@ const router = Router()
 
 router.get('/:resource?/:id?', withParams, ({resource, id}) => json({resource, id}))
 
-router.all('*', ({method, url}) => json({method, url}))
+router.all('*', req => json({ fun: new URL(req.url).origin + '/fun' }))
 
 export default {
   fetch: router.handle
