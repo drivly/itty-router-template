@@ -19,7 +19,7 @@ export default {
 
 ## Instant Deployment
 
-Uses [drivly/deploy-worker](https://github.com/marketplace/actions/deploy-worker) GitHub Action for 5-10 second deployment times: <https://c329df8.workers.do>
+Uses [drivly/deploy-worker](https://github.com/marketplace/actions/deploy-worker) GitHub Action for 5-10 second deployment times!
 
 ```yaml
 name: Deploy
