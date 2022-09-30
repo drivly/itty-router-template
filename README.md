@@ -30,6 +30,6 @@ jobs:
       - uses: drivly/deploy-worker@beta-1
 ```
 
-And every commit gets auto-deployed instantly with it's own URL:
+And every commit gets auto-deployed instantly with it's own URL: <https://f4d459c.workers.do/>
 
-<img width="880" alt="Screen Shot 2022-09-30 at 9 54 15 AM" src="https://user-images.githubusercontent.com/4130910/193297600-6aac75df-b9da-41e8-b8b2-c4c85ed63e8e.png">
+[<img width="880" alt="Screen Shot 2022-09-30 at 9 54 15 AM" src="https://user-images.githubusercontent.com/4130910/193297600-6aac75df-b9da-41e8-b8b2-c4c85ed63e8e.png">](https://f4d459c.workers.do/)
