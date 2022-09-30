@@ -14,7 +14,7 @@ export default {
 }
 ```
 
-Uses [drivly/deploy-worker](https://github.com/marketplace/actions/deploy-worker) GitHub Action for 5-10 second deployment times:
+Uses [drivly/deploy-worker](https://github.com/marketplace/actions/deploy-worker) GitHub Action for 5-10 second deployment times: <https://c329df8.workers.do>
 
 ```yaml
 name: Deploy
@@ -28,6 +28,9 @@ jobs:
       - uses: drivly/deploy-worker@beta-1
 ```
 
-And every commit gets auto-deployed instantly with it's own URL: <https://f4d459c.workers.do/>
+And every commit gets auto-deployed instantly with it's own URL: <https://c329df8.workers.do/>
 
-[<img width="880" alt="Screen Shot 2022-09-30 at 9 54 15 AM" src="https://user-images.githubusercontent.com/4130910/193297600-6aac75df-b9da-41e8-b8b2-c4c85ed63e8e.png">](https://f4d459c.workers.do/)
+[<img width="859" alt="Screen Shot 2022-09-30 at 9 57 56 AM" src="https://user-images.githubusercontent.com/4130910/193298407-a8a50f24-99a8-490f-84c7-ba870879c268.png">](https://c329df8.workers.do/)
+
+
+
