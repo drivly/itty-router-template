@@ -9,6 +9,3 @@ router.get('/:resource?/:id?', withParams, ({url, resource, id}) => json({ url, 
 export default {
   fetch: router.handle
 }
-
-// Testing  12
- 
