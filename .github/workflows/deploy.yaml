@@ -7,6 +7,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: drivly/deploy-worker@beta-3
-        with:
-           name: itty
-           domain: itty.one
+#         with:
+#            name: itty
+#            domain: itty.one
