@@ -9,4 +9,4 @@ jobs:
       - uses: drivly/deploy-worker@beta-3
         with:
            name: itty
-#            domain: itty.one
+           domain: itty.one
